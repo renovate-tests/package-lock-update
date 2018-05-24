@@ -1,0 +1,25 @@
+{
+  "name": "LCS",
+  "version": "1.0.0",
+  "description": "Testing dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-larry/TestDep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-larry/TestDep/issues"
+  },
+  "homepage": "https://github.com/hi-larry/TestDep#readme",
+  "dependencies": {
+    "bar": "./bar-1.0.0.tgz"
+  },
+  "devDependencies": {
+    "ioredis": "^3.2.2"
+  }
+}
