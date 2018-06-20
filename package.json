@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hi-larry/TestDep#readme",
   "dependencies": {
-    "bar": "./bar-1.0.0.tgz"
+    "bar": "file:./bar-1.0.0.tgz"
   },
   "devDependencies": {
     "ioredis": "^2.5.0"
