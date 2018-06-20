@@ -20,6 +20,6 @@
     "bar": "./bar-1.0.0.tgz"
   },
   "devDependencies": {
-    "ioredis": "^3.2.2"
+    "ioredis": "^2.5.0"
   }
 }
